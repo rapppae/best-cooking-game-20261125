@@ -1,8 +1,8 @@
 # Soto Rush — Warung Soto Express
 
-[![make.fun bounty](https://make.fun/bounty/best-cooking-game-20261125-0137/badge.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![rank](https://make.fun/bounty/best-cooking-game-20261125-0137/rapppae/best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![reward](https://make.fun/bounty/best-cooking-game-20261125-0137/rapppae/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/rapppae/best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/rapppae/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A fast cooking game set in an Indonesian street-food stall. Customers order
 soto ayam, mie goreng, nasi goreng and es teh manis; you pick the ticket,
